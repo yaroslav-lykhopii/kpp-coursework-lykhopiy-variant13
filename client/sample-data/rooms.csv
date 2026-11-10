@@ -1,0 +1,6 @@
+number;floor;type;status
+101;1;Standard;AVAILABLE
+102;1;Standard;OCCUPIED
+201;2;Suite;AVAILABLE
+202;2;Suite;AVAILABLE
+301;3;Deluxe;AVAILABLE
